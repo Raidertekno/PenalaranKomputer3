@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "query": "pemerasan",
+        "expected": "pemerasan"
+    },
+    {
+        "id": 2,
+        "query": "pengancaman",
+        "expected": "pengancaman"
+    },
+    {
+        "id": 3,
+        "query": "pemerasan dan pengancaman",
+        "expected": "pemerasan_dan_pengancaman"
+    }
+]
