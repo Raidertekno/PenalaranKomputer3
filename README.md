@@ -256,7 +256,8 @@ Evaluasi:
 ---
 
 ## Penulis
-
+Adriansyah Pratama  202310370311481
+M. Raihan Abdi      202310370311474
 Tugas Mata Kuliah Penalaran Komputer  
 Fakultas Teknik  
 Universitas Muhammadiyah Malang
